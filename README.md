@@ -2,7 +2,7 @@
 
 This repository stores reusable Chat4Data agent skills, starting with the `customer-email` skill used to draft high-quality customer support replies.
 
-The structure and writing style are inspired by the open `anthropics/skills` repository, while the content is tailored for Chat4Data workflows.
+The structure and writing style are tailored for Chat4Data workflows and operational needs.
 
 ## What Is In This Repo
 
